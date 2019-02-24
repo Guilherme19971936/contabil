@@ -6,5 +6,7 @@ __author__ = {
 }
 
 from main import Main
+from tkinter import Tk
 
-Main().root.mainloop()
+app = Main()
+app.root.run()
