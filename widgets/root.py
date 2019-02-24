@@ -1,2 +1,0 @@
-class RootWidget(FloatLayout):
-    pass
